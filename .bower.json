@@ -4,8 +4,7 @@
   "_release": "master",
   "_resolution": {
     "type": "branch",
-    "branch": "master",
-    "commit": ""
+    "branch": "master"
   },
   "_source": "git://github.com/thinkaxelthink/jquery-pubsub.git",
   "_target": "*",
