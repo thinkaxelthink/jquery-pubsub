@@ -1,0 +1,14 @@
+{
+  "name": "jquery-pubsub",
+  "homepage": "https://github.com/thinkaxelthink/jquery-pubsub",
+  "_release": "master",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": ""
+  },
+  "_source": "git://github.com/thinkaxelthink/jquery-pubsub.git",
+  "_target": "*",
+  "_originalSource": "thinkaxelthink/jquery-pubsub",
+  "_direct": true
+}
